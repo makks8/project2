@@ -1,7 +1,7 @@
 Options -Indexes
 RewriteEngine On
 
-RewriteBase /test2/web/
+RewriteBase /project/web/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-f
