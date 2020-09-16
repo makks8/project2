@@ -8,4 +8,6 @@
 
 Путь к контроллеру project/controllers/ClientController.php
 
+Путь к конфигу БД project/core/DataBase.php
+
 Для проверки необходимо перенести папку "project" в рабочую папку
