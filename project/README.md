@@ -7,3 +7,5 @@
 Удалить localhost/project/client.delete?email=test@gmail.com
 
 Путь к контроллеру project/controllers/ClientController.php
+
+Для проверки необходимо перенести папку "project" в рабочую папку
