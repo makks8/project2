@@ -1,0 +1,9 @@
+Options -Indexes
+RewriteEngine On
+
+RewriteBase /test2/web/
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
